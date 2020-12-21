@@ -1,0 +1,2 @@
+kgilmer-ubuntu-speed-ricer-focal.list
+https://github.com/sdhand/picom
